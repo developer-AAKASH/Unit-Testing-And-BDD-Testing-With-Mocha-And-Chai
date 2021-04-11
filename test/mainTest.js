@@ -18,3 +18,7 @@ const expect = require("chai").expect;
 
 
 // Status as active or sunk
+/*
+    --reporter : for just printing failed messages or testcases only.
+    --reporter markdown: descriptive output  kind of readme files to understand the things by others.
+*/
